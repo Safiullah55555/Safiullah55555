@@ -40,9 +40,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Safiullah55555/count.svg?"  />
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=safiullah&label=Profile%20views&color=0e75b6&style=flat" alt="safiullah" /> </p>
 
 ###
 
