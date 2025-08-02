@@ -36,7 +36,7 @@
 
 ###
 
-<h2 align="left">Profile Views</h2>
+
 
 ###
 
