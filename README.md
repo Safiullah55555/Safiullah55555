@@ -2,7 +2,10 @@
 
 ###
 
-<p align="left">My name is Safiullah, I'm a developer and GitHub account holder(ops)</p>
+<p align="left">My name is Safiullah, I'm just a developer yet.</p> </br> </br>
+
+<img width="640" height="360" alt="got it" src="https://github.com/user-attachments/assets/184e0f6f-78f9-4eb7-9345-9d3030b24f7d" />
+
 
 ###
 
@@ -10,7 +13,13 @@
 
 ###
 
-<p align="left">✨ Creating bugs since  Sep 12, 2023<br>📚 I'm currently building projects using MERN N.<br>🎯 Goals: 401<br>🎲 Fun fact: Born in Pakistan.</p>
+<p align="left">✨ Creating bugs since  Sep 12, 2023<br>📚 I'm currently building projects.<br>🎯 Goals: 401<br>🎲 Fun fact: Born in Pakistan.</p>
+
+
+<img width="300" height="200" alt="..." src="https://github.com/user-attachments/assets/a748afce-7445-4c3b-808e-97a86da470e0" />
+
+
+
 
 ###
 
@@ -32,6 +41,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="40" alt="electron logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
 
 ###
