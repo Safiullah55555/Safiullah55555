@@ -74,21 +74,27 @@ From day one, I spend most of my time in the lab doing practical work on the <b>
 
 ###
 
-<h2 align="left"></h2>
+
+
+---
 
 
 
-**What's in the box!?**
+### 📦 What's in the box!?
 <p>I focus on <b>cloud-first development__building and running production-grade workloads directly on cloud infrastructure</b> rather than keeping projects on localhost. Because <b/>I love localhost, it's better to stay away from it.</b> It's going to be hard, and I'm okay with it. </p>
 
-## Cloud Computing
+##
+
+### 🛠️ Tech Stack & Focus Areas
+
+## ☁️ Cloud Computing
 - **Alibaba Cloud ECS** (Elastic Compute Service) — VM provisioning
 - **OSS** (Object Storage Service)
 - **RDS** (Relational Database Service)
 - **VPC** networking basics
 - **Aliyun CLI / SDK** usage
 
-## Platform Engineering Stack
+## 🏗️ Platform Engineering Stack
 - **Infrastructure as Code (IaC):** Terraform, OpenTofu, Ansible
 - **CI/CD & GitOps:** GitHub Actions, ArgoCD, GitLab CI
 - **Container Registry & Management:** Helm, Harbor
@@ -97,26 +103,26 @@ From day one, I spend most of my time in the lab doing practical work on the <b>
 - **Service Mesh & Networking:** Istio, Envoy, Ingress-NGINX
 - **Secrets & Policy Management:** HashiCorp Vault, Open Policy Agent (OPA) / Kyverno
 
-## Big Data Stack
+## 🐘 Big Data Stack
 - **Hadoop** (HDFS, MapReduce)
 - **Apache Spark** (PySpark / Spark SQL)
 - **Hive**
 - **MaxCompute** (Alibaba's big data processing platform — Aliyun equivalent of BigQuery)
 - **Kafka** — data streaming 
 
-## AI / Machine Learning
+## 🤖 AI / Machine Learning
 - Python-based ML: NumPy, Pandas, scikit-learn
 - Deep learning frameworks: TensorFlow / PyTorch
 - Alibaba's **PAI** (Platform for AI) for cloud-based model training
 
-## Tools & Dev Environment
+## 🧰 Tools & Dev Environment
 - **Git/GitHub** 
 - **Docker** — containerization
 - **Kubernetes** — orchestration 
 - **Linux** (Ubuntu/CentOS)
 - IDEs: VS Code, IntelliJ IDEA, PyCharm
 
-## Programming Languages
+## 💻 Programming Languages
 - **C / C++** — core systems programming, DSA foundation
 - **Java** — OOP, enterprise application development
 - **Python** — scripting, data analysis, ML/AI
